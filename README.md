@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <div >
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beaalvess&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaalvess&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beaalvess&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaalvess&layout=compact&langs_count=16&theme=default"/>
 </div>
+<br>
 <!--
 **beaalvess/beaalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
