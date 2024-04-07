@@ -6,7 +6,7 @@
 
 <div>
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/beaalvess/beaalvess/output/github-contribution-grid-snake-dark.svg"/>
