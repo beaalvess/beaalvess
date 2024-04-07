@@ -11,7 +11,7 @@
 </div>
 <!--<img style="align-items: center" height="160em" alt="GitHub Snake" src="https://raw.githubusercontent.com/beaalvess/beaalvess/output/github-contribution-grid-snake-dark.svg"/>-->
 
-##
+
 
 <a href="mailto:beatrizalvesctt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
