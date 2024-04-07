@@ -4,9 +4,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaalvess&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/beaalvess/beaalvess/output/github-contribution-grid-snake-dark.svg"/>
 <!--
 **beaalvess/beaalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
