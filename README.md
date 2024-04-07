@@ -17,7 +17,7 @@
 <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>-->
 <a href="https://www.instagram.com/whobtz?igsh=MXBlY3BtNjhqMHIycA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/trizalves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+<a href="#" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">(my.portfolio.com)</a>
 <!--<a href="https://www.linkedin.com/in/trizalves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio?style=flat-square&color=blue"></a>-->
 
