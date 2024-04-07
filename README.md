@@ -4,6 +4,9 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=beaalvess&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaalvess&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+
+<img src="https://github.com/beaalvess/beaalvess/blob/output/github-contribution-grid-snake.svg">
+
 <!--
 **beaalvess/beaalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
