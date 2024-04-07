@@ -10,7 +10,7 @@
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
-<img height="160em" alt="GitHub Snake" src="https://raw.githubusercontent.com/beaalvess/beaalvess/output/github-contribution-grid-snake-dark.svg"/>
+<img style="align-items: center" height="160em" alt="GitHub Snake" src="https://raw.githubusercontent.com/beaalvess/beaalvess/output/github-contribution-grid-snake-dark.svg"/>
 
 <!--
 **beaalvess/beaalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
