@@ -1,12 +1,9 @@
-### Welcome!!!
+### WELCOME
 <div>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beaalvess&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaalvess&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-
 <div style="display: inline_block"><br>
-  
-### ✧ Tech stack ✧
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
