@@ -10,9 +10,7 @@
 <img height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 <img style="align-items: center" height="160em" alt="GitHub Snake" src="https://raw.githubusercontent.com/beaalvess/beaalvess/output/github-contribution-grid-snake-dark.svg"/>
-
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <a href="mailto:beatrizalvesctt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>-->
 <a href="https://www.instagram.com/whobtz?igsh=MXBlY3BtNjhqMHIycA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
