@@ -6,7 +6,7 @@
 
 ### 𝚃𝙴𝙲𝙷 𝚂𝙴𝚃𝚄𝙿
 <div style="display: inline_block">
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+<!--<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />-->
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
