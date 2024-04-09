@@ -1,6 +1,6 @@
 ### 𝚆𝙴𝙻𝙲𝙾𝙼𝙴!!!
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=beaalvess&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=beaalvess&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaalvess&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
